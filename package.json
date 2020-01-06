@@ -1,6 +1,7 @@
 {
   "name": "jenkins-test",
   "version": "0.0.1",
+  "nginx_version":"0.0.1",
   "description": "",
   "author": "",
   "license": "MIT",
